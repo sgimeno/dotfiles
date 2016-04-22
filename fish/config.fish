@@ -1,8 +1,8 @@
-set default_user "paulirish"
-set default_machine "paulirish-macbookair2"
+set default_user "sergio"
+set default_machine "sergio-macbook"
 
 
-#set -x  DYLD_FALLBACK_LIBRARY_PATH /Users/paulirish/.homebrew/lib
+#set -x  DYLD_FALLBACK_LIBRARY_PATH /Users/sergio/.homebrew/lib
 
 source ~/.config/fish/path.fish
 source ~/.config/fish/aliases.fish

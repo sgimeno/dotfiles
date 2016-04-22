@@ -98,7 +98,7 @@ function emptytrash -d 'Empty the Trash on all mounted volumes and the main HDD.
     sudo rm -rfv /Volumes/*/.Trashes
     sudo rm -v /private/var/vm/sleepimage
     rm -rfv ~/.Trash/*
-    rm -rfv /Users/paulirish/Library/Application\ Support/stremio/Cache
-    rm -rfv /Users/paulirish/Library/Application\ Support/stremio/stremio-cache
+    rm -rfv /Users/sergio/Library/Application\ Support/stremio/Cache
+    rm -rfv /Users/sergio/Library/Application\ Support/stremio/stremio-cache
 end
 

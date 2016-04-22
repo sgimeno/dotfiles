@@ -1799,7 +1799,7 @@
 			<key>Window Type</key>
 			<integer>0</integer>
 			<key>Working Directory</key>
-			<string>/Users/paulirish</string>
+			<string>/Users/sergio</string>
 		</dict>
 		<dict>
 			<key>ASCII Anti Aliased</key>
@@ -2524,7 +2524,7 @@
 			<key>Window Type</key>
 			<integer>0</integer>
 			<key>Working Directory</key>
-			<string>/Users/paulirish</string>
+			<string>/Users/sergio</string>
 		</dict>
 	</array>
 	<key>NoSyncCommandHistoryHasEverBeenUsed</key>
@@ -2608,7 +2608,7 @@
 		</dict>
 	</dict>
 	<key>PrefsCustomFolder</key>
-	<string>/Users/paulirish/code/dotfiles/prefs</string>
+	<string>/Users/sergio/code/dotfiles/prefs</string>
 	<key>PromptOnQuit</key>
 	<false/>
 	<key>QuitWhenAllWindowsClosed</key>
@@ -3421,14 +3421,14 @@
 													<key>Window Type</key>
 													<integer>0</integer>
 													<key>Working Directory</key>
-													<string>/Users/paulirish</string>
+													<string>/Users/sergio</string>
 												</dict>
 												<key>Columns</key>
 												<integer>101</integer>
 												<key>Rows</key>
 												<integer>33</integer>
 												<key>Working Directory</key>
-												<string>/Users/paulirish/chromium/src/third_party/WebKit/Source/devtools/front_end/emulated_devices</string>
+												<string>/Users/sergio/chromium/src/third_party/WebKit/Source/devtools/front_end/emulated_devices</string>
 											</dict>
 											<key>View Type</key>
 											<string>SessionView</string>
@@ -4173,14 +4173,14 @@
 													<key>Window Type</key>
 													<integer>0</integer>
 													<key>Working Directory</key>
-													<string>/Users/paulirish</string>
+													<string>/Users/sergio</string>
 												</dict>
 												<key>Columns</key>
 												<integer>101</integer>
 												<key>Rows</key>
 												<integer>33</integer>
 												<key>Working Directory</key>
-												<string>/Users/paulirish/chromium/src/third_party/WebKit/Source/devtools/front_end/emulated_devices</string>
+												<string>/Users/sergio/chromium/src/third_party/WebKit/Source/devtools/front_end/emulated_devices</string>
 											</dict>
 											<key>View Type</key>
 											<string>SessionView</string>
@@ -4947,14 +4947,14 @@
 													<key>Window Type</key>
 													<integer>0</integer>
 													<key>Working Directory</key>
-													<string>/Users/paulirish</string>
+													<string>/Users/sergio</string>
 												</dict>
 												<key>Columns</key>
 												<integer>101</integer>
 												<key>Rows</key>
 												<integer>11</integer>
 												<key>Working Directory</key>
-												<string>/Users/paulirish/chromium/src</string>
+												<string>/Users/sergio/chromium/src</string>
 											</dict>
 											<key>View Type</key>
 											<string>SessionView</string>
@@ -5699,14 +5699,14 @@
 													<key>Window Type</key>
 													<integer>0</integer>
 													<key>Working Directory</key>
-													<string>/Users/paulirish</string>
+													<string>/Users/sergio</string>
 												</dict>
 												<key>Columns</key>
 												<integer>101</integer>
 												<key>Rows</key>
 												<integer>11</integer>
 												<key>Working Directory</key>
-												<string>/Users/paulirish/chromium/src/third_party/WebKit/Source/devtools</string>
+												<string>/Users/sergio/chromium/src/third_party/WebKit/Source/devtools</string>
 											</dict>
 											<key>View Type</key>
 											<string>SessionView</string>
@@ -6493,14 +6493,14 @@
 											<key>Window Type</key>
 											<integer>0</integer>
 											<key>Working Directory</key>
-											<string>/Users/paulirish</string>
+											<string>/Users/sergio</string>
 										</dict>
 										<key>Columns</key>
 										<integer>204</integer>
 										<key>Rows</key>
 										<integer>48</integer>
 										<key>Working Directory</key>
-										<string>/Users/paulirish/code/temp/node-big-rig</string>
+										<string>/Users/sergio/code/temp/node-big-rig</string>
 									</dict>
 									<key>View Type</key>
 									<string>SessionView</string>
@@ -7270,14 +7270,14 @@
 											<key>Window Type</key>
 											<integer>0</integer>
 											<key>Working Directory</key>
-											<string>/Users/paulirish</string>
+											<string>/Users/sergio</string>
 										</dict>
 										<key>Columns</key>
 										<integer>101</integer>
 										<key>Rows</key>
 										<integer>46</integer>
 										<key>Working Directory</key>
-										<string>/Users/paulirish/code/devtools-device-data</string>
+										<string>/Users/sergio/code/devtools-device-data</string>
 									</dict>
 									<key>View Type</key>
 									<string>SessionView</string>
@@ -8022,14 +8022,14 @@
 											<key>Window Type</key>
 											<integer>0</integer>
 											<key>Working Directory</key>
-											<string>/Users/paulirish</string>
+											<string>/Users/sergio</string>
 										</dict>
 										<key>Columns</key>
 										<integer>101</integer>
 										<key>Rows</key>
 										<integer>46</integer>
 										<key>Working Directory</key>
-										<string>/Users/paulirish/code/devtools-standalone</string>
+										<string>/Users/sergio/code/devtools-standalone</string>
 									</dict>
 									<key>View Type</key>
 									<string>SessionView</string>
@@ -8797,14 +8797,14 @@
 											<key>Window Type</key>
 											<integer>0</integer>
 											<key>Working Directory</key>
-											<string>/Users/paulirish</string>
+											<string>/Users/sergio</string>
 										</dict>
 										<key>Columns</key>
 										<integer>204</integer>
 										<key>Rows</key>
 										<integer>48</integer>
 										<key>Working Directory</key>
-										<string>/Users/paulirish/code/temp</string>
+										<string>/Users/sergio/code/temp</string>
 									</dict>
 									<key>View Type</key>
 									<string>SessionView</string>
@@ -9572,14 +9572,14 @@
 											<key>Window Type</key>
 											<integer>0</integer>
 											<key>Working Directory</key>
-											<string>/Users/paulirish</string>
+											<string>/Users/sergio</string>
 										</dict>
 										<key>Columns</key>
 										<integer>204</integer>
 										<key>Rows</key>
 										<integer>48</integer>
 										<key>Working Directory</key>
-										<string>/Users/paulirish/code/dotfiles</string>
+										<string>/Users/sergio/code/dotfiles</string>
 									</dict>
 									<key>View Type</key>
 									<string>SessionView</string>
@@ -10347,14 +10347,14 @@
 											<key>Window Type</key>
 											<integer>0</integer>
 											<key>Working Directory</key>
-											<string>/Users/paulirish</string>
+											<string>/Users/sergio</string>
 										</dict>
 										<key>Columns</key>
 										<integer>204</integer>
 										<key>Rows</key>
 										<integer>48</integer>
 										<key>Working Directory</key>
-										<string>/Users/paulirish/code/diff-so-fancy</string>
+										<string>/Users/sergio/code/diff-so-fancy</string>
 									</dict>
 									<key>View Type</key>
 									<string>SessionView</string>
@@ -11122,14 +11122,14 @@
 											<key>Window Type</key>
 											<integer>0</integer>
 											<key>Working Directory</key>
-											<string>/Users/paulirish</string>
+											<string>/Users/sergio</string>
 										</dict>
 										<key>Columns</key>
 										<integer>204</integer>
 										<key>Rows</key>
 										<integer>48</integer>
 										<key>Working Directory</key>
-										<string>/Users/paulirish/Library/Application Support/Google/Chrome/Default</string>
+										<string>/Users/sergio/Library/Application Support/Google/Chrome/Default</string>
 									</dict>
 									<key>View Type</key>
 									<string>SessionView</string>
