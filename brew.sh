@@ -45,8 +45,13 @@ brew install git
 brew install node # This installs `npm` too using the recommended installation method
 brew install tree
 
+# Some DB I use on the backend
+brew install mysql
+brew install elasticsearch
+
 brew install android-platform-tools
 brew install pidcat   # colored logcat guy
+
 
 # # Pending review
 # # run this script when this file changes guy.

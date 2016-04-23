@@ -85,11 +85,6 @@ elif [ -f /etc/bash_completion ]; then
     source /etc/bash_completion;
 fi;
 
-# homebrew completion
-if  which brew > /dev/null; then
-    source `brew --repository`/Library/Contributions/brew_bash_completion.sh
-fi;
-
 # hub completion
 if  which hub > /dev/null; then
     source "$(brew --prefix)/etc/bash_completion.d/hub.bash_completion.sh";
@@ -110,7 +105,7 @@ complete -W "NSGlobalDomain" defaults
 ##
 
 # Case-insensitive globbing (used in pathname expansion)
-shopt -s nocaseglob;
+#shopt -s nocaseglob;
 
 # Autocorrect typos in path names when using `cd`
-shopt -s cdspell;
+#shopt -s cdspell;
