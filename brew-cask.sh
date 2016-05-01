@@ -13,6 +13,7 @@ brew tap caskroom/versions
 # daily
 brew cask install spectacle
 brew cask install dropbox
+brew cask install google-drive
 # brew cask install 1password
 # brew cask install rescuetime
 # brew cask install flux
