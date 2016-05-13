@@ -1,1 +1,5 @@
 export PATH=$PATH:/Users/sergio/.homebrew/bin
+export ANDROID_HOME=/Users/sergio/.homebrew/opt/android-sdk
+
+# Enable direnv
+eval "$(direnv hook bash)"

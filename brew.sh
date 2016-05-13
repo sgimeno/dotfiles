@@ -44,7 +44,7 @@ brew install the_silver_searcher
 brew install git
 brew install node # This installs `npm` too using the recommended installation method
 brew install tree
-
+brew install direnv
 # Some DB I use on the backend
 brew install mysql
 brew install elasticsearch

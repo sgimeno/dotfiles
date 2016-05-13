@@ -52,6 +52,8 @@ function clone() {
 }
 alias push="git push"
 
+alias gitstate="git status"
+
 # Undo a `git push`
 alias undopush="git push -f origin HEAD^:master"
 

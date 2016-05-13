@@ -52,6 +52,13 @@ function server() {
 	statik --port "$port" .
 }
 
+# Start node-inspector
+function inspector() {
+	open "http://127.0.0.1:8080/?port=5858" &
+	# npm install -g node-inspector
+	node-inspector
+}
+
 
 # Copy w/ progress
 cp_p () {
