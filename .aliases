@@ -87,6 +87,8 @@ alias emptytrash=" \
     rm -rfv ~/.Trash/*; \
     sudo rm -v /private/var/vm/sleepimage; \
 "
+# Open Chromium allowing any CORS
+alias chromium-cors="open /Applications/Chromium.app --args --disable-web-security --user-data-dir"
 
 # Update installed Ruby gems, Homebrew, npm, and their installed packages
 alias brew_update="brew -v update; brew upgrade --force-bottle --cleanup; brew cleanup; brew cask cleanup; brew prune; brew doctor; npm-check -g -u"

@@ -33,6 +33,7 @@ brew cask install slack
 # browsers
 brew cask install google-chrome
 brew cask install firefoxnightly
+brew cask install chromium
 brew cask install torbrowser
 
 # less often
