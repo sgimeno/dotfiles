@@ -33,5 +33,3 @@ fish/fish_history
 # random
 shilocation
 
-# Direnv files
-.envrc
