@@ -22,6 +22,7 @@ brew cask install google-drive
 brew cask install iterm2
 brew cask install sublime-text
 brew cask install slack
+brew cask install docker
 # brew cask install imagealpha
 # brew cask install imageoptim
 
