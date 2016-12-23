@@ -140,6 +140,8 @@ npm install -g git-open
 # trash as the safe `rm` alternative
 npm install --global trash-cli
 
+npm i -g statik
+
 
 # github.com/rupa/z   - oh how i love you
 git clone https://github.com/rupa/z.git ~/code/z
