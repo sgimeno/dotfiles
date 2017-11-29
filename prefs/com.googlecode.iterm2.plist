@@ -1667,7 +1667,7 @@
 				<key>action</key>
 				<string>best editor</string>
 				<key>editor</key>
-				<string>com.sublimetext.3</string>
+				<string>com.github.atom</string>
 				<key>text</key>
 				<string></string>
 			</dict>
@@ -2392,7 +2392,7 @@
 				<key>action</key>
 				<string>best editor</string>
 				<key>editor</key>
-				<string>com.sublimetext.3</string>
+				<string>com.github.atom</string>
 				<key>text</key>
 				<string></string>
 			</dict>
@@ -3289,7 +3289,7 @@
 														<key>action</key>
 														<string>best editor</string>
 														<key>editor</key>
-														<string>com.sublimetext.3</string>
+														<string>com.github.atom</string>
 														<key>text</key>
 														<string></string>
 													</dict>
@@ -4041,7 +4041,7 @@
 														<key>action</key>
 														<string>best editor</string>
 														<key>editor</key>
-														<string>com.sublimetext.3</string>
+														<string>com.github.atom</string>
 														<key>text</key>
 														<string></string>
 													</dict>
@@ -4815,7 +4815,7 @@
 														<key>action</key>
 														<string>best editor</string>
 														<key>editor</key>
-														<string>com.sublimetext.3</string>
+														<string>com.github.atom</string>
 														<key>text</key>
 														<string></string>
 													</dict>
@@ -5567,7 +5567,7 @@
 														<key>action</key>
 														<string>best editor</string>
 														<key>editor</key>
-														<string>com.sublimetext.3</string>
+														<string>com.github.atom</string>
 														<key>text</key>
 														<string></string>
 													</dict>
@@ -6361,7 +6361,7 @@
 												<key>action</key>
 												<string>best editor</string>
 												<key>editor</key>
-												<string>com.sublimetext.3</string>
+												<string>com.github.atom</string>
 												<key>text</key>
 												<string></string>
 											</dict>
@@ -7138,7 +7138,7 @@
 												<key>action</key>
 												<string>best editor</string>
 												<key>editor</key>
-												<string>com.sublimetext.3</string>
+												<string>com.github.atom</string>
 												<key>text</key>
 												<string></string>
 											</dict>
@@ -7890,7 +7890,7 @@
 												<key>action</key>
 												<string>best editor</string>
 												<key>editor</key>
-												<string>com.sublimetext.3</string>
+												<string>com.github.atom</string>
 												<key>text</key>
 												<string></string>
 											</dict>
@@ -8665,7 +8665,7 @@
 												<key>action</key>
 												<string>best editor</string>
 												<key>editor</key>
-												<string>com.sublimetext.3</string>
+												<string>com.github.atom</string>
 												<key>text</key>
 												<string></string>
 											</dict>
@@ -9440,7 +9440,7 @@
 												<key>action</key>
 												<string>best editor</string>
 												<key>editor</key>
-												<string>com.sublimetext.3</string>
+												<string>com.github.atom</string>
 												<key>text</key>
 												<string></string>
 											</dict>
@@ -10215,7 +10215,7 @@
 												<key>action</key>
 												<string>best editor</string>
 												<key>editor</key>
-												<string>com.sublimetext.3</string>
+												<string>com.github.atom</string>
 												<key>text</key>
 												<string></string>
 											</dict>
@@ -10990,7 +10990,7 @@
 												<key>action</key>
 												<string>best editor</string>
 												<key>editor</key>
-												<string>com.sublimetext.3</string>
+												<string>com.github.atom</string>
 												<key>text</key>
 												<string></string>
 											</dict>
